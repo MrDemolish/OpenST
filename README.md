@@ -1,4 +1,4 @@
-Reconstructing a 2000-era RTS from binary behavior and original game assets. The current build already supports map loading, world rendering, unit interaction, structures, UI and visibility/fog systems.
+Reconstructing a 2000-era RTS from binary behavior and original game assets. The current build already supports map loading, world rendering, map editing, unit interaction, structures, UI and visibility/fog systems.
 
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/8d978f54-0e9b-4229-b90e-4fe2ed800b83" />
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/e8259976-d159-49d7-bb9b-b0dea6b1847a" />
