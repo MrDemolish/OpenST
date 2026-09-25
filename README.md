@@ -4,3 +4,5 @@ Reconstructing a 2000-era RTS from binary behavior and original game assets. The
 <img width="802" height="632" alt="image" src="https://github.com/user-attachments/assets/e8259976-d159-49d7-bb9b-b0dea6b1847a" />
 p`<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/f5969024-a57d-47b5-9677-67c32564b39f" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/eb6ffdc2-383c-4f94-a1ca-b555856ab6f7" />
+<img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/dce95ebf-6913-45ba-9565-6de984af75e5" />
+
