@@ -1,1 +1,1 @@
-First ever attempt to recreate whole ST game.
+Reconstructing a 2000-era RTS from binary behavior and original game assets. The current build already supports map loading, world rendering, unit interaction, structures, UI and visibility/fog systems.
